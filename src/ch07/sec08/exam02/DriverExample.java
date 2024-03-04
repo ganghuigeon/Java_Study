@@ -6,11 +6,11 @@ public class DriverExample {
 
         //Bus bus = new Bus();
         //driver.drive(bus);
-        driver.drive(new Bus());
+        driver.driving(new Bus());
 
         //Car car = new Car();
         //driver.drive(car);
-        driver.drive(new Car());
+        driver.driving(new Car());
 
     }
 }
